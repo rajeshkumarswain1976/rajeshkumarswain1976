@@ -42,5 +42,5 @@ My work has been selected for presentation at an international conference. I'm j
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumarswain1976&...)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarswain1976&...)
+![Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumarswain1976&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarswain1976&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
