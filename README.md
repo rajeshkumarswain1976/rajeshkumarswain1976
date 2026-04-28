@@ -3,7 +3,7 @@
 B.Tech CSE · CUPGS, BPUT Rourkela · 2023–27
 
 I build deep learning systems for complex visual data — research-grade pipelines, not tutorials.  
-My work has been selected for presentation at an international conference. I'm just getting started.
+ I'm just getting started.
 
 [LinkedIn]() · [Email](mailto:rajeshkumarswain1976@email.com)
 
