@@ -1,6 +1,6 @@
 # Rajesh Kumar Swain
 
-B.Tech CSE · CUPGS, BPUT Rourkela · 2023–27
+B.Tech CSE · CUPGS, BPUT Rourkela,Odisha · 2023–27
 
 I build deep learning systems for complex visual data — research-grade pipelines, not tutorials.  
  I'm just getting started.
