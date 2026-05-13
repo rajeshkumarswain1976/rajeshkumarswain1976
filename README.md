@@ -5,7 +5,7 @@ B.Tech CSE · CUPGS, BPUT Rourkela,Odisha · 2023–27
 I build deep learning systems for complex visual data — research-grade pipelines, not tutorials.  
  I'm just getting started.
 
-[LinkedIn]() · [Email](mailto:rajeshkumarswain1976@email.com)
+[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-swain-71243raj/) · [Email](mailto:rajeshkumarswain1976@email.com)
 
 ---
 
