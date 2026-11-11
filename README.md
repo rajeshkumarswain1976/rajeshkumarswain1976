@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rajesh-kumar-swain-71243/raj"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajesh-kumar-swain-71243raj/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/rajeshkumarswain1976"><img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:rajeshkumarswain1976@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -152,6 +152,6 @@ Certificate: `AIR2025STP027`
 
 **Research · Experimentation · Engineering · Discovery**
 
-[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-swain-71243/raj) · [GitHub](https://github.com/rajeshkumarswain1976) · [Email](mailto:rajeshkumarswain1976@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-swain-71243raj/) · [GitHub](https://github.com/rajeshkumarswain1976) · [Email](mailto:rajeshkumarswain1976@gmail.com)
 
 </div>
